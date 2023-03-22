@@ -1,3 +1,3 @@
 <?php
-    echo "Hello PHPStorm!";
+    echo "Witaj w swiecie PHP!";
 ?>
