@@ -5,7 +5,7 @@
 </head>
 <body>
 <h1>Formularz rezerwacji</h1>
-<form method="post" action="rezerwacja">
+<form method="post" action="przetworz.php">
     <label for="ilosc_osob">Ilość osób:</label>
     <select name="ilosc_osob" id="ilosc_osob">
         <option value="1">1</option>
